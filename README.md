@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xamn-d
 - 👀 I’m interested in physics, technology, and consciousness.
-- 🌱 I’m currently learning purple teaming, various langs, business management.
-- 💞️ I’m looking to collaborate on machine learning projects, linux development, CTFs.
+- 🌱 I’m currently learning purple teaming, various langs, and business management.
+- 💞️ I’m looking to collaborate on machine learning projects, linux development, and CTFs.
 - 📫 How to reach me: ask.
 
 <!---
